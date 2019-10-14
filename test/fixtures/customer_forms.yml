@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  raw_form: 
+  customer_form_code: MyString
+  revision: 1.5
+
+two:
+  title: MyString
+  raw_form: 
+  customer_form_code: MyString
+  revision: 1.5
